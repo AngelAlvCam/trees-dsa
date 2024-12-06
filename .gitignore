@@ -1,0 +1,11 @@
+# LaTex related files
+*.aux
+*.log
+*.synctex.gz
+
+# Java binaries
+Proyecto*Adicional*EDA*II/bin/*
+
+# Eclipse IDE related files
+Proyecto*Adicional*EDA*II/.project
+Proyecto*Adicional*EDA*II/.classpath
